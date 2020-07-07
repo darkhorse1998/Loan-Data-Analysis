@@ -17,9 +17,7 @@ SAME DIRECTORY)
 4) Test_Data_Predictions.csv :
   Contains Predictions of Test Data
 
-5) .PY_Format folder : Contains the codes in .py Python file format
-
-6) Report_Loan_Data_Analysis.pdf : Report on the Project
+5) Report_Loan_Data_Analysis.pdf : Report on the Project
    (if the .docx file doesn't open due to version issues)
 
 ---------------------------------END--------------------------------------
